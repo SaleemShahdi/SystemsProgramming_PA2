@@ -2,6 +2,8 @@ My code is in PA2 Code/kernel.c
 
 My makefile is in PA2 Code/makefile
 
+Assignment description is in CS214S25_PA2.pdf and included below for convenience:
+
 <p align="center"><strong>Programming Assignment 2: C Kernels (100 points)</strong></p>
 
 The goal of this assignment is to become familiar with C kernels. A kernel is a function or library you call from a higher level language, such Python or Java. Your task is to write a C kernel,an equivalent Python function, and measure the performance differences between them.
