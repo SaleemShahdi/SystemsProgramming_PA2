@@ -1,8 +1,8 @@
-My code is in PA2 Code/kernel.c
+My code is in `PA2 Code/kernel.c`
 
-My makefile is in PA2 Code/makefile
+My makefile is in `PA2 Code/makefile`
 
-Assignment description is in CS214S25_PA2.pdf and included below for convenience:
+Assignment description is in `CS214S25_PA2.pdf` and included below for convenience:
 
 <p align="center"><strong>Programming Assignment 2: C Kernels (100 points)</strong></p>
 
